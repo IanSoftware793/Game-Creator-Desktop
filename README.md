@@ -13,6 +13,6 @@ Create your own projects, experiment with gameplay ideas, build interactive expe
 * 🎨 Customize your games and interfaces
 * 🚀 Build and share your creations
 
-Game Creator is made for beginners, creators, and anyone who wants to experiment with making games.
+Game Creator Desktop is made for beginners, creators, and anyone who wants to experiment with making games.
 
 **Create. Design. Play. Share.**
