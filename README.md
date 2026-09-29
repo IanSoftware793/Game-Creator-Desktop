@@ -1,6 +1,6 @@
 # Game Creator Desktop
 
-**Game Creator** is a game creation platform designed to make it easy to create, design, and share your own games requiring advanced programming knowledge with desktop version.
+**Game Creator Desktop** is a game creation platform designed to make it easy to create, design, and share your own games requiring advanced programming knowledge with desktop version.
 
 Create your own projects, experiment with gameplay ideas, build interactive experiences, and turn your ideas into playable games by real codes.
 
